@@ -8,5 +8,6 @@
 
 wheel
 PyYAML
-protobuf==3.11.3
+protobuf
+# protobuf==3.11.3
 Cython
